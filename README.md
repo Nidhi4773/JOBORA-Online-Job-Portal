@@ -1,9 +1,6 @@
-# JOBORA-Online-Job-Portal
-Here’s a clean, professional **README.md** for your GitHub repo based on your JOBORA DBMS project 👇 (copy–paste directly)
 
----
+# 💼 JOBORA – Online Job Portal
 
-# 💼 JOBORA – Online Job Portal (DBMS Project)
 
 ## 📌 Overview
 
